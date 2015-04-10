@@ -1,0 +1,47 @@
+body {
+    color: orange;
+    background: #dddddd;
+}
+
+body a {
+    font-weight: normal;
+    color: green;
+}
+
+section {
+    color: blue;
+    border: 1px solid gray;
+    margin: 5px;
+    padding: 5px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Garamond, serif;
+}
+
+p {
+    text-align: center;
+    color: purple;
+}
+
+li {
+    color: black;
+}
+
+#final {
+    font-size:25px;
+    color: #000099;
+}
+
+.first {
+    text-decoration:underline;
+}
+
+.second {
+    background:gray;
+}
+
+ol li {
+    background:#cceeee;
+}
